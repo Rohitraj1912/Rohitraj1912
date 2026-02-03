@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rohitraj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</p>
+
+
+<p align="center">
+  <img src="image/github_photo.jpeg" alt="Rohitraj" width="200" height="200" style="border-radius: 50%;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohitraj</h1>
 <h3 align="center">I am deeply passionate about AI, data, and modern software development.</h3>
 

@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="image/github_photo.jpeg" alt="Rohitraj" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="image/github_photo.jpeg" alt="Rohitraj" width="400" height="400" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Venkata Rohitraj Kesanakurti</h1>

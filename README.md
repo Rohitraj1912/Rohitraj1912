@@ -1,13 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rohitraj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Venkata%20Rohitraj%20Kesanakurti&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
+<!-- 
+  REPLACE THE URL BELOW WITH YOUR PHOTO URL
+  Option 1: Upload photo to this repository in 'assets' folder, then use:
+  https://raw.githubusercontent.com/rohitraj1912/rohitraj1912/main/assets/your-photo.jpg
+  
+  Option 2: Upload via GitHub Issues and copy the generated URL
+  
+  Option 3: Use image hosting like Imgur
+-->
 
 <p align="center">
-  <img src="image/github_photo.jpeg" alt="Rohitraj" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="YOUR_PHOTO_URL_HERE" alt="Rohitraj" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohitraj</h1>
+<h1 align="center">Hi 👋, I'm Venkata Rohitraj Kesanakurti</h1>
 <h3 align="center">I am deeply passionate about AI, data, and modern software development.</h3>
 
 <p align="center">

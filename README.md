@@ -164,6 +164,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitraj1912&show_icons=true&locale=en&layout=compact" alt="rohitraj1912" /></p>

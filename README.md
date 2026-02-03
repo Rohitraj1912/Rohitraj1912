@@ -223,13 +223,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitraj1912&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rohitraj1912" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitraj1912&show_icons=true&locale=en&theme=tokyonight" alt="rohitraj1912" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitraj1912&theme=tokyonight" alt="rohitraj1912" />
